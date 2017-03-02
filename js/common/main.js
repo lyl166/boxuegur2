@@ -10,6 +10,8 @@ requirejs.config({
         jqueryCookie:"lib/jquery-cookie/jquery.cookie",
         //进度条
         nprogress:"lib/nprogress/nprogress",
+        //模板
+        template:"lib/artTemplate-3.0.1/template",
         //自己写的路径配置
         //common
         index:"js/index",
